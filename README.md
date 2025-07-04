@@ -45,4 +45,5 @@ You can access the prepared documentation for this project via the following lin
 
 
 ### DE
-- Demnächst verfügbar ----
+- [Schritt-für-Schritt-Anleitung zur Einrichtung](docs/DE/yocto-raspberrypi4-setup_DE.md)
+- [FAQ](docs/DE/FAQ_DE.md)
