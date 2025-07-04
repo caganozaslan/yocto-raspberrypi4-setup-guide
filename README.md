@@ -37,7 +37,7 @@ You can access the prepared documentation for this project via the following lin
 - [Step by Step Setup Guide](docs/yocto-raspberrypi4-setup.md)
 - [FAQ](docs/FAQ.md)
 - [LVGL Demo](yocto-rpi4-starter-kit/lvgl-demo/README.md)
-- [Quick Start](yocto-rpi4-starter-kit/README.md)
+- [Quick Start](yocto-rpi4-starter-kit/quick-start.md)
 - [Yocto Project Fast Setup](yocto-rpi4-starter-kit/yocto-project-rpi/README.md)
 ### TR
 - [Adım Adım Kurulum Rehberi](docs/TR/yocto-raspberrypi4-setup_TR.md)
