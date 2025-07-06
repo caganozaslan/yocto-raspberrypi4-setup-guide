@@ -129,14 +129,14 @@ Katman listesinde bu şekilde bir çıktı görmelisiniz. (Sıralama farklı ola
 ```
 layer                 path                                                             priority
 =========================================================================================================
-meta                  /home/arda/yocto-project-rpi/poky/meta                                   5
-meta-poky             /home/arda/yocto-project-rpi/poky/meta-poky                              5
-meta-yocto-bsp        /home/arda/yocto-project-rpi/poky/meta-yocto-bsp                         5
-meta-oe               /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-oe              5
-meta-python           /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-python          5
-meta-networking       /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-networking      5
-meta-multimedia       /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-multimedia      5
-meta-raspberrypi      /home/arda/yocto-project-rpi/poky/meta-raspberrypi                        9
+meta                  /home/USER/yocto-project-rpi/poky/meta                                   5
+meta-poky             /home/USER/yocto-project-rpi/poky/meta-poky                              5
+meta-yocto-bsp        /home/USER/yocto-project-rpi/poky/meta-yocto-bsp                         5
+meta-oe               /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-oe              5
+meta-python           /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-python          5
+meta-networking       /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-networking      5
+meta-multimedia       /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-multimedia      5
+meta-raspberrypi      /home/USER/yocto-project-rpi/poky/meta-raspberrypi                        9
 ```
 
 ### Yocto Derleme Ayarlarının Yapılması

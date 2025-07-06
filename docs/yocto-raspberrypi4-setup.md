@@ -26,7 +26,9 @@ To follow this document correctly, you must use the same working environment and
 
 To see how much RAM and SWAP space WSL has, enter the following command in the WSL terminal:
 
-**free -h**
+```bash
+free -h
+```
 
 If the output values are below the required thresholds, you can follow the instructions below to adjust the settings.
 
@@ -132,14 +134,14 @@ You should see an output similar to this in the layer list. (The order may vary.
 ```
 layer                 path                                                             priority
 =========================================================================================================
-meta                  /home/arda/yocto-project-rpi/poky/meta                                   5
-meta-poky             /home/arda/yocto-project-rpi/poky/meta-poky                              5
-meta-yocto-bsp        /home/arda/yocto-project-rpi/poky/meta-yocto-bsp                         5
-meta-oe               /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-oe              5
-meta-python           /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-python          5
-meta-networking       /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-networking      5
-meta-multimedia       /home/arda/yocto-project-rpi/poky/meta-openembedded/meta-multimedia      5
-meta-raspberrypi      /home/arda/yocto-project-rpi/poky/meta-raspberrypi                        9
+meta                  /home/USER/yocto-project-rpi/poky/meta                                   5
+meta-poky             /home/USER/yocto-project-rpi/poky/meta-poky                              5
+meta-yocto-bsp        /home/USER/yocto-project-rpi/poky/meta-yocto-bsp                         5
+meta-oe               /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-oe              5
+meta-python           /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-python          5
+meta-networking       /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-networking      5
+meta-multimedia       /home/USER/yocto-project-rpi/poky/meta-openembedded/meta-multimedia      5
+meta-raspberrypi      /home/USER/yocto-project-rpi/poky/meta-raspberrypi                        9
 ```
 
 ### Configuring Yocto Build Settings
