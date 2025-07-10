@@ -10,12 +10,14 @@ cd yocto-project-rpi
 source poky/oe-init-build-env
 ```
 
-Derleme işlemine başlamadan önce sistem yeterliliklerini mutlaka kontrol edin. Bununla ilgili detaylı bilgiye [buradan](../../docs/yocto-raspberrypi4-setup.md) ulaşabilirsiniz.
+Before starting the build process, make sure to check the system requirements.  
+You can find detailed information [here](../../docs/yocto-raspberrypi4-setup.md).
+
 
 ```bash
 bitbake core-image-base
 ```
-Bu süreç sisteminize bağlı olarak 1-3 saat aralığında vakit alabilir.
+This process may take between 1 to 3 hours depending on your system.
 
 ### Output 
 
